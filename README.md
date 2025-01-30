@@ -1,4 +1,4 @@
-# Python/Flask ile Web uygulama - Sayı Tahmin Oyunu
+# Python/Flask ile Web Uygulama - Sayı Tahmin Oyunu
 
 Bu proje, Flask tabanlı bir web uygulaması olup kullanıcının 1 ile 100 arasında rastgele tutulan bir sayıyı tahmin etmesini amaçlamaktadır. Kullanıcının girdisine bağlı olarak ipuçları verilir ve doğru tahminde oyun tamamlanır. Yeni oyun başlatma seçeneği mevcuttur.
 
